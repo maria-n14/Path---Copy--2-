@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0fea29c4d0def4643a8d6668e9269735
+timeCreated: 1470329845
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Door
+    100004: Door Rig
+    100006: //RootNode
+    100008: Door_Rotate_Base
+    100010: Doorbone_Shape
+    100012: Doorknob
+    100014: DoorknobAnim
+    100016: Doorknobbonedraw
+    100018: Doorway
+    100020: Hinge
+    100022: KnobCTRL
+    100024: KnobCTRL_end
+    100026: Lamp.001
+    100028: Plane
+    100030: Root
+    100032: Root 1
+    100034: Rotate
+    100036: Rotate_Control_Draw
+    100038: Rotate_end
+    100040: Sphere
+    400000: Camera
+    400002: Door
+    400004: Door Rig
+    400006: //RootNode
+    400008: Door_Rotate_Base
+    400010: Doorbone_Shape
+    400012: Doorknob
+    400014: DoorknobAnim
+    400016: Doorknobbonedraw
+    400018: Doorway
+    400020: Hinge
+    400022: KnobCTRL
+    400024: KnobCTRL_end
+    400026: Lamp.001
+    400028: Plane
+    400030: Root
+    400032: Root 1
+    400034: Rotate
+    400036: Rotate_Control_Draw
+    400038: Rotate_end
+    400040: Sphere
+    2300000: Door_Rotate_Base
+    2300002: Doorbone_Shape
+    2300004: Doorknob
+    2300006: DoorknobAnim
+    2300008: Doorknobbonedraw
+    2300010: Doorway
+    2300012: Plane
+    2300014: Root
+    2300016: Rotate_Control_Draw
+    2300018: Sphere
+    3300000: Door_Rotate_Base
+    3300002: Doorbone_Shape
+    3300004: Doorknob
+    3300006: DoorknobAnim
+    3300008: Doorknobbonedraw
+    3300010: Doorway
+    3300012: Plane
+    3300014: Root
+    3300016: Rotate_Control_Draw
+    3300018: Sphere
+    4300000: Rotate_Control_Draw
+    4300002: Doorknobbonedraw
+    4300004: Root
+    4300006: Doorbone_Shape
+    4300008: Door_Rotate_Base
+    4300010: Doorway
+    4300012: Doorknob
+    4300014: DoorknobAnim
+    4300016: Door
+    4300018: Plane
+    4300020: Sphere
+    7400000: Door Rig|Rotate_In
+    7400002: Door Rig|Rotate_Out
+    9500000: //RootNode
+    13700000: Door
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

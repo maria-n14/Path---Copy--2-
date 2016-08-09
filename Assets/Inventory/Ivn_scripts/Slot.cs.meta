@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c96dd0db64967c4cbf23a27a4c8bd3c
+timeCreated: 1470760944
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stackTxt: {instanceID: 0}
+  - slotEmpty: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - slotHighlight: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
